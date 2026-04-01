@@ -5,6 +5,7 @@ Fullstack engineer passionate about building great products and learning new tec
 - 👨‍💻 Working with **React**, **Next.js**, **Node.js**, **TypeScript**, **NestJS**, **Python**, **PHP**
 - 📍 Praia Grande, São Paulo - Brasil
 - 🔗 [LinkedIn](https://www.linkedin.com/in/christian-gallo-b4291bb0/)
+- 🔗 [Portifólio](https://my-portifolio-sooty.vercel.app/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gallodev-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
