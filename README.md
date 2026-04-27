@@ -7,7 +7,7 @@ Fullstack engineer passionate about building great products and learning new tec
 - 🔗 [LinkedIn](https://www.linkedin.com/in/christian-gallo-b4291bb0/)
 - 🔗 [Portifólio](https://my-portifolio-sooty.vercel.app/)
 
-<div ><br>
+<div>
   <img align="center" alt="gallodev-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gallodev-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="gallodev-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
