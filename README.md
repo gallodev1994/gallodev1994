@@ -9,8 +9,16 @@ Fullstack engineer passionate about building great products and learning new tec
 
 <br>
 
-<div>   
-  <a href="https://www.instagram.com/galloskt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
+<p align="left">
+  <a href="https://www.instagram.com/galloskt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">  </a> 	
   <a href = "mailto:contato.gallodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/christian-gallo-b4291bb0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+</p>
+
+### Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,postgres,mongodb,aws,gcp,docker,linux,tailwind,prisma,figma,php,laravel,rabbitmq,webpack&perline=12" />
+  </a>
+</p>
