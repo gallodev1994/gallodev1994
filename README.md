@@ -19,6 +19,6 @@ Fullstack engineer passionate about building great products and learning new tec
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,postgres,mongodb,aws,gcp,docker,linux,tailwind,prisma,figma,php,laravel,rabbitmq,webpack&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,postgres,mongodb,aws,gcp,docker,linux,tailwind,prisma,figma,php,laravel,rabbitmq,webpack,terraform&perline=12" />
   </a>
 </p>
